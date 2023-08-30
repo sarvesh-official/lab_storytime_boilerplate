@@ -30,14 +30,14 @@ Karen says she's made a new friend but Lily doesn't believe her just yet. create
 
 ## Trial 4: Lily's investigation
 
-Lily game Karen some sweets in order to calm her down so she could follow her. Lily has a sweet tooth and couldn't resist the temptation. She ate a lot of sweets on her way to the river.
+Lily gave Karen some sweets in order to calm her down so she could follow her. Lily has a sweet tooth and couldn't resist the temptation. She ate a lot of sweets on her way to the river.
 
 - Lily gave Karen x sweets
 - Karen ate y sweets herself
 - She ate another z sweets every n meters travelled
 - Her friend divided the remaining sweets into 2 parts for each.
 
-  Create a function `sweetTooth()` which takes `totalNoOfSweets, sweetsConsumedByKaren, sweetsConsumedInNMeters, metersToTravel` as arugments and _return number of sweets Karen's friend would have_.
+  Create a function `sweetTooth()` which takes `totalNoOfSweets, sweetsConsumedByKaren, sweetsConsumedInNMeters, meterTsoTravel` as arugments and _return number of sweets Karen's friend would have_.
 
 ## Output
 ![](https://kq-storage.s3.ap-south-1.amazonaws.com/Github/storytime_lab/story+time+lab+Trial+4.png)
